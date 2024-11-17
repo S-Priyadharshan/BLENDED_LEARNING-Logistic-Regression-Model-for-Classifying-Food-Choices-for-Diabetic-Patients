@@ -9,11 +9,10 @@ To implement a logistic regression model to classify food items for diabetic pat
 2. Anaconda – Python 3.7 Installation / Jupyter notebook
 
 ## Algorithm
-1. 
-2. 
-3. 
-4. 
-
+Data Preparation: Collect and preprocess patient data, including features like nutritional values and patient history, and label the food choices as suitable or unsuitable for diabetics.
+Model Training: Split the data into training and test sets, then train a logistic regression model using the training data.
+Model Evaluation: Test the trained model on the test set and evaluate its performance using metrics like accuracy, precision, and recall.
+Prediction: Use the trained model to classify new food choices as suitable or unsuitable for diabetic patients.
 ## Program:
 ```
 /*
@@ -69,7 +68,9 @@ evaluate_metrics(y_test, l2_preds)
 ```
 
 ## Output:
-![simple linear regression model for predicting the marks scored](sam.png)
+![image](https://github.com/user-attachments/assets/b5ee4b19-ba57-410c-8062-91f8e733bccc)
+![image](https://github.com/user-attachments/assets/477b86d1-bb36-4833-afbc-7143013e352a)
+![image](https://github.com/user-attachments/assets/c3a2e35d-e990-4c7d-954c-dcd379892e18)
 
 
 ## Result:
